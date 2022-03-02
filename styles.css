@@ -4,3 +4,7 @@
   margin-right: auto;
   width: 50%;
 }
+
+div {
+  border: 5px solid red;
+}
