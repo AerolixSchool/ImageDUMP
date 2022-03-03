@@ -29,7 +29,5 @@ font-family: Arial, sans-serif;
       }
 
 .secretbutton {
-         background: #242424;
-         border: none;
-         font-size:0;
+         visibility: hidden;
       }
