@@ -27,3 +27,9 @@ font-family: Arial, sans-serif;
         cursor: pointer;
         border-radius: 25px;
       }
+
+.secretbutton {
+         background: transparent;
+         border: none !important;
+         font-size:0;
+      }
