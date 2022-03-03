@@ -1,2 +1,2 @@
 # ImageDUMP
-bunch of images from my school chromebook
+Images from School Chromebooks
