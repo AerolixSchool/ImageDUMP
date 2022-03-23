@@ -28,6 +28,10 @@ font-family: Arial, sans-serif;
         border-radius: 25px;
       }
 
+.button:hover {
+  background-color: grey;
+}
+
 .secretbutton {
          background: #A9A9A9;
          border: none;
