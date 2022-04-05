@@ -41,4 +41,8 @@ font-family: Arial, sans-serif;
 
 .alert {
   position: sticky;
+  background-color: red;
+  display: inline-block;
+  color: black;
+  width: 100%;
 }
