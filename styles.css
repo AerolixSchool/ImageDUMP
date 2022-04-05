@@ -38,3 +38,7 @@ font-family: Arial, sans-serif;
          font-size: 0;
          cursor: pointer;
      }
+
+.alert {
+  position: sticky;
+}
