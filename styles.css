@@ -50,3 +50,17 @@ font-family: Arial, sans-serif;
 .sometext {
   color: black;
 }
+
+.button {
+  background-color: #ffffff;
+  border: none;
+  color: black;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
