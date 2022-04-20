@@ -19,21 +19,18 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
-.thename {
-    display: inline-block;
-}
-
 .nameform {
     width: 250px;
-    border: solid red 5px;
-    border-radius: 12px;
+    border: 2px solid red;
 }
 
 .imageform {
-    width: max-content;
+    width: min-content;
+    border: 2px solid red;
 }
 
 .submitbutton {
     color: white;
     background-color: black;
+    border: 2px solid red;
 }
