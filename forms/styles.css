@@ -24,5 +24,22 @@ body {
 }
 
 .nameform {
-    background-color: ;
+    width: 50px;
+    height: 30px;
+    border: solid red 5px;
+    border-radius: 12px;
+}
+
+.imageform {
+    width: 50px;
+    height: 30px;
+    border: solid red 5px;
+    border-radius: 12px;
+}
+
+.submitbutton {
+    color: white;
+    background-color: black;
+    border: solid red 5px;
+    border-radius: 12px;
 }
