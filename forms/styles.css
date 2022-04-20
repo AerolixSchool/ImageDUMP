@@ -3,13 +3,19 @@ body {
 }
 
 .imagesub {
+    text-align: center;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     border: 5px solid red;
     background-color: #1c1a1a;
-    width: 200px;
+    width: 400px;
     padding: 10px;
 
+}
+
+* {
+    color: white;
+    font-family: 'Fredoka', sans-serif;
 }
