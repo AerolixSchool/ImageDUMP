@@ -24,13 +24,13 @@ body {
 }
 
 .nameform {
-    width: 120px;
+    width: 250px;
     border: solid red 5px;
     border-radius: 12px;
 }
 
 .imageform {
-    width: 120px;
+    width: 250px;
     border: solid red 5px;
     border-radius: 12px;
 }
