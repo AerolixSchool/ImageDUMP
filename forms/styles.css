@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.imagesub {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid red;
+    background-color: #1c1a1a;
+    width: 200px;
+    padding: 10px;
+
+}
