@@ -30,7 +30,7 @@ body {
 }
 
 .imageform {
-    width: 250px;
+    width: min-content;
     border: solid red 5px;
     border-radius: 12px;
 }
