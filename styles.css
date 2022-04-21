@@ -39,18 +39,6 @@ font-family: Arial, sans-serif;
          cursor: pointer;
      }
 
-.alert {
-  position: sticky;
-  background-color: red;
-  display: inline-block;
-  width: 100%;
-  height: min-content;
-}
-
-.sometext {
-  color: black;
-}
-
 .button {
   background-color: #ffffff;
   border: none;
