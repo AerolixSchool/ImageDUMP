@@ -22,6 +22,7 @@ body {
 .nameform {
     width: 250px;
     border: 2px solid red;
+    color: black;
 }
 
 .imageform {
@@ -33,4 +34,5 @@ body {
     color: white;
     background-color: black;
     border: 2px solid red;
+    cursor: pointer;
 }
