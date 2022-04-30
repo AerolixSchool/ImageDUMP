@@ -52,3 +52,10 @@ font-family: Arial, sans-serif;
   cursor: pointer;
   border-radius: 25px;
 }
+
+.daysleft {
+  border: 2px solid white;
+  width: max-content;
+  background-color: red;
+  color: black;
+}
