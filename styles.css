@@ -54,6 +54,7 @@ font-family: Arial, sans-serif;
 }
 
 .daysleft {
+  display: block;
   border: 2px solid white;
   width: max-content;
   background-color: red;
