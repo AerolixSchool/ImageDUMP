@@ -53,10 +53,24 @@ font-family: Arial, sans-serif;
   border-radius: 25px;
 }
 
-.daysleft {
-  display: block;
-  border: 2px solid white;
-  width: max-content;
-  background-color: red;
-  color: black;
+.banner {
+  background: #009579;
+}
+
+.banner__content {
+  padding: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.banner__text {
+  flex-grow: 1;
+  line-height: 1.4;
+  font-family: Arial, sans-serif;
+}
+.banner__text,
+.banner__close > span {
+  color: #ffffff;
 }
