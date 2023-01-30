@@ -10,34 +10,34 @@ img {
 }
 
 * {
-text-align: center;
-font-family: Arial, sans-serif;
+  text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 .button {
-        background-color: #ffffff;
-        border: none;
-        color: black;
-        padding: 20px 34px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-        cursor: pointer;
-        border-radius: 25px;
-      }
+  background-color: #ffffff;
+  border: none;
+  color: black;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
 
 .button:hover {
   background-color: grey;
 }
 
 .secretbutton {
-         background: transparent;
-         border: none;
-         font-size: 0;
-         cursor: pointer;
-     }
+  background: transparent;
+  border: none;
+  font-size: 0;
+  cursor: pointer;
+}
 
 .button {
   background-color: #ffffff;
@@ -70,7 +70,8 @@ font-family: Arial, sans-serif;
   line-height: 1.4;
   font-family: Arial, sans-serif;
 }
+
 .banner__text,
-.banner__close > span {
+.banner__close>span {
   color: #ffffff;
 }
