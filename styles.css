@@ -1,3 +1,6 @@
+body {
+  background-color: black;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -13,7 +16,7 @@ img {
   text-align: center;
   font-family: Arial, sans-serif;
 }
-
+                        
 .button {
   background-color: #ffffff;
   border: none;
